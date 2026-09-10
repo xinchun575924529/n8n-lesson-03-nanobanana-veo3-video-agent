@@ -30,6 +30,8 @@ jobs:
           cp -r docs script exercises workflows README.md LEGEND.md _site/
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          enablement: true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
