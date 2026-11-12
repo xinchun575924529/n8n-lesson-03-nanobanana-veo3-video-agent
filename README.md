@@ -86,3 +86,11 @@ n8n-lesson-03-nanobanana-veo3-video-agent/
 - 模板公开页：[n8n.io/workflows/8270](https://n8n.io/workflows/8270/)
 - REST API 获取原始模板 JSON：`https://api.n8n.io/api/workflows/templates/8270`
 - **累计挖出 7 个模板/实战真坑**（A 级 4 个 + B 级 3 个，C 级附赠修复示范），全部收录于 [第五讲](docs/05-pitfalls-defense.md)
+
+---
+
+## 🛠️ 远程部署服务 ¥99
+
+不想自己折腾环境？工程师 ToDesk/向日葵 远程帮你把本课工作流装好调通（单课 × 1 次，≤60 分钟）。
+
+👉 [立即购买部署服务](https://n8nbox.cn/cashier?item=svc-remote-deploy-01)
